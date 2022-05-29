@@ -1,2 +1,3 @@
-# youtube-soundcloud-wattpad-combined
-basically just a client to access stuff
+# Universal Client
+> Just a client for 
+> any platform at all
